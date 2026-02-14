@@ -17,11 +17,12 @@ The project demonstrates the complete **Data Science Lifecycle** using a Fraud D
 
 ## 📂 Repository Structure
 
+```
 Fraud Detection/
 │
 ├── data/
-│ ├── online_fraud.csv
-│ └── covid_19_time_series.csv
+│   ├── online_fraud.csv
+│   └── covid_19_time_series.csv
 │
 ├── exp1_statistics.ipynb
 ├── exp2_data_cleaning.ipynb
@@ -30,8 +31,7 @@ Fraud Detection/
 ├── exp5_SMOTE_Fraud_Detection.ipynb
 ├── exp6_Outlier_Detection.ipynb
 └── exp7_time_series.ipynb
-
----
+```
 
 ## 📥 Dataset Download Instructions
 
